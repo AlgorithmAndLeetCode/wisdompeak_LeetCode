@@ -6,7 +6,6 @@ struct DSU {
     pair<int,int> find(int x) {
         if (p[x]==x)
             return {x, 0};
-        int father = p[x];
         auto [root, dist] = find(p[x]);
         p[x] = root;
         d[x] = (dist+d[x])%2;            
