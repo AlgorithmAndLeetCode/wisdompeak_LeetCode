@@ -14,9 +14,7 @@ struct DSU {
     void unite(int a, int b, int w) {
         auto [ra, da] = find(a);
         auto [rb, db] = find(b);        
-        p[a] = rb;
         p[ra] = rb;
-        d[a] = (w+db)%2;
         d[ra] = (da+w+db)%2;
     }
 };
