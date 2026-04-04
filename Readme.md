@@ -1144,7 +1144,9 @@
 [2157.Groups-of-Strings](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/2157.Groups-of-Strings) (H)      
 [2492.Minimum-Score-of-a-Path-Between-Two-Cities](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/2492.Minimum-Score-of-a-Path-Between-Two-Cities) (M)    
 [2867.Count-Valid-Paths-in-a-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/2867.Count-Valid-Paths-in-a-Tree) (M+)    
-[3873.Maximum-Points-Activated-with-One-Addition](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/3873.Maximum-Points-Activated-with-One-Addition) (M+)      
+[3873.Maximum-Points-Activated-with-One-Addition](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/3873.Maximum-Points-Activated-with-One-Addition) (M+)     
+* ``Union with Weight``    
+[3887.Incremental-Even-Weighted-Cycle-Queries](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/3887.Incremental-Even-Weighted-Cycle-Queries) (H)      
 * ``Union in an order``    
 [803.Bricks-Falling-When-Hit](https://github.com/wisdompeak/LeetCode/tree/master/DFS/803.Bricks-Falling-When-Hit) (H)   
 [1970.Last-Day-Where-You-Can-Still-Cross](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1970.Last-Day-Where-You-Can-Still-Cross) (H-)    
