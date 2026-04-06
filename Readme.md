@@ -1010,6 +1010,8 @@
 [3130.Find-All-Possible-Stable-Binary-Arrays-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3130.Find-All-Possible-Stable-Binary-Arrays-II) (H)      
 * ``遍历优化``   
 [3177.Find-the-Maximum-Length-of-a-Good-Subsequence-II)](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3177.Find-the-Maximum-Length-of-a-Good-Subsequence-II)) (H)      
+* ``循环型``   
+[3892.Minimum-Operations-to-Achieve-At-Least-K-Peaks](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3892.Minimum-Operations-to-Achieve-At-Least-K-Peaks) (H)      
 
 #### [Bit Manipulation](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation)
 [137.Single-Number-II](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/137.Single-Number-II) (H-)   
