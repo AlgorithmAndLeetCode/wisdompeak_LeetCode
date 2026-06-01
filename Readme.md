@@ -896,6 +896,7 @@
 [3489.Zero-Array-Transformation-IV](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3489.Zero-Array-Transformation-IV) (H-)      
 [3592.Inverse-Coin-Change](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3592.Inverse-Coin-Change) (H)      
 [3685.Subsequence-Sum-After-Capping-Elements](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3685.Subsequence-Sum-After-Capping-Elements) (H)      
+[3946.Maximum-Number-of-Items-From-Sale-I](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/3946.Maximum-Number-of-Items-From-Sale-I) (H-)      
 * ``键盘型``  
 [650.2-Keys-Keyboard](https://github.com/wisdompeak/LeetCode/blob/master/Dynamic_Programming/650.2-Keys-Keyboard) (M+)   
 [651.4-Keys-Keyboard](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/651.4-Keys-Keyboard) (M+)    
