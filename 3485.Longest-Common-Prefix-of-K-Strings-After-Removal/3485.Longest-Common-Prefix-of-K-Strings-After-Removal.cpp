@@ -16,22 +16,22 @@ class Solution {
 public:
     void add(string& s, int delta) {
         TrieNode* node = root;
-        int level = 0;
+        int depth = 0;
         for (auto ch: s) {
             if (node->next[ch-'a']==NULL)
                 node->next[ch-'a']=new TrieNode();
             node = node->next[ch-'a'];
             node->count+=delta;
-            level++;
+            depth++;
 
             int oldValue = node->count-delta;
             int newValue = node->count;
             if (oldValue<k && newValue>=k) {
-                Map[level]++;
+                Map[depth]++;
             } else if (oldValue>=k && newValue<k) {
-                Map[level]--;
-                if (Map[level]==0)
-                    Map.erase(level);
+                Map[depth]--;
+                if (Map[depth]==0)
+                    Map.erase(depth);
             }
         }
     }
