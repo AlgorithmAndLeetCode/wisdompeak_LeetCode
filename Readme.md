@@ -178,6 +178,7 @@
 [3116.Kth-Smallest-Amount-With-Single-Denomination-Combination](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/3116.Kth-Smallest-Amount-With-Single-Denomination-Combination) (H)      
 [3670.Maximum-Product-of-Two-Integers-With-No-Common-Bits](https://github.com/wisdompeak/LeetCode/tree/master/Trie/3670.Maximum-Product-of-Two-Integers-With-No-Common-Bits) (H)      
 [3134.Find-the-Median-of-the-Uniqueness-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/3134.Find-the-Median-of-the-Uniqueness-Array) (H-)      
+[3485.Longest-Common-Prefix-of-K-Strings-After-Removal](https://github.com/wisdompeak/LeetCode/tree/master/3485.Longest-Common-Prefix-of-K-Strings-After-Removal) (H)      
 
 #### [Hash Map](https://github.com/wisdompeak/LeetCode/tree/master/Hash)
 [049.Group-Anagrams](https://github.com/wisdompeak/LeetCode/tree/master/Hash/049.Group-Anagrams) (M+)    
