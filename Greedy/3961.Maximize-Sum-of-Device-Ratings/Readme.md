@@ -7,3 +7,5 @@
 在不考虑globalMin归属的情况下，每个device的贡献值就是其SecondMin的元素值。此时再考虑globalMin所在的device，其本质就是将贡献值从SecondMin拉低到了globalMin。所以我们只要找全局最小的`SecondMin-globalMin`，从而减小该损失。
 
 最终的答案就是：`sum(SecondMin) - min(SecondMin) + globalMin`.
+
+特别注意，当n=1时需要特殊处理。
