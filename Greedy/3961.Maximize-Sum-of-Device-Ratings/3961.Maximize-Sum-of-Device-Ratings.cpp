@@ -18,7 +18,7 @@ public:
                 globalMin = min(globalMin, units[i][j]);
 
         ll sum = 0;
-        int gap = INT_MAX;
+        int min_mn2 = INT_MAX;
         for (int i=0; i<m; i++) {
             int mn1 = INT_MAX, mn2 = INT_MAX;
             for (int j=0; j<n; j++) {
@@ -30,9 +30,9 @@ public:
                 }
             }
             sum += mn2;
-            gap = min(gap, mn2-globalMin);
+            min_mn2 = min(min_mn2, mn2);
         }
 
-        return sum - gap;
+        return sum - (min_mn2 - globalMin);
     }
 };
